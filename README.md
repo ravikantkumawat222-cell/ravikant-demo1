@@ -1,4 +1,4 @@
  # ravikant-demo1
 this is my first repository
 <br>
-author - ravikant kumawat
+author - ravikant 
